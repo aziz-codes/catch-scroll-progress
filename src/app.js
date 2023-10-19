@@ -14,5 +14,3 @@ function updateProgressBar() {
 // Attach the update function to the scroll event
 window.addEventListener("scroll", updateProgressBar);
 window.addEventListener("resize", updateProgressBar);
-
-// test commit
